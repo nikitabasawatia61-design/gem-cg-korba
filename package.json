@@ -1,0 +1,14 @@
+{
+  "name": "cgproc-gem-proxy",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
